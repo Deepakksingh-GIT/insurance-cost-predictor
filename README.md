@@ -1,3 +1,6 @@
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/35f419ed-7749-4d35-b697-b4d1ab87c7cc" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/51478e5d-22d1-4bc6-a40d-c5c26f444724" />
+
 # 💊 Medical Insurance Cost Prediction
 End-to-end Python project to predict individual medical insurance costs using Machine Learning.  
 Includes EDA, data preprocessing, regression models, MLflow tracking, and an interactive Streamlit web app.
